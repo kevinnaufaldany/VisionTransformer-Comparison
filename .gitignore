@@ -43,12 +43,9 @@ venv.bak/
 Thumbs.db
 
 # Dataset (too large, keep only structure)
-dataset/
-test/
 
 # Training outputs (except checkpoints)
 # Checkpoints are tracked with Git LFS
-results/*/plots/
 
 # Temporary files
 *.tmp
